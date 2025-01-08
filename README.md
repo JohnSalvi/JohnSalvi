@@ -22,6 +22,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!---
 JohnSalvi/JohnSalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
