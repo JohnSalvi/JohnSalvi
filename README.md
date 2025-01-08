@@ -17,7 +17,7 @@
 - Portfolio: [yourportfolio.com](#)
 
 ## 🌟 Fun Fact
-🚣I'm currently  Rowing at Stanford University
+- 🚣I'm currently  Rowing at Stanford University
 
 <!---
 JohnSalvi/JohnSalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
