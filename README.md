@@ -1,4 +1,4 @@
-- # Hi there 👋, I'm [John Salvi]!
+- # Hi there 👋, I'm John Salvi!
 
 ## 🚀 About Me
 - 🎓 CS major at Stanford University  
@@ -17,12 +17,14 @@
 - Portfolio: [yourportfolio.com](#)
 
 ## 🌟 Fun Fact
-- 🚣I'm currently  Rowing at Stanford University
+- 🚣I'm currently Rowing at Stanford University
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 
 <!---
 JohnSalvi/JohnSalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
