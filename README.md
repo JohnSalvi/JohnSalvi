@@ -22,7 +22,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
