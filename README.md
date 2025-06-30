@@ -12,9 +12,9 @@
 - **Other:** Algorithm analysis, data structures, and Big-O complexity  
 
 ## 📫 Get in Touch
-- LinkedIn: [https://www.linkedin.com/in/john-salvi-1b4490233/](#)  
-- Email: [jsalvi@stanford.edu](mailto:your.email@example.com)  
-- Portfolio: [yourportfolio.com](#)
+- LinkedIn: [https://www.linkedin.com/in/john-salvi-1b4490233/](https://www.linkedin.com/in/john-salvi-1b4490233/)  
+- Email: [jsalvi05@stanford.edu](mailto:jsalvi05@stanford.edu)  
+- Portfolio: [https://johnsalvi.github.io/JohnSalvi-JohnSalviPortfolio.github.io/generic.html](https://johnsalvi.github.io/JohnSalvi-JohnSalviPortfolio.github.io/generic.html)
 
 ## 🌟 Fun Fact
 - 🚣I'm currently Rowing at Stanford University
