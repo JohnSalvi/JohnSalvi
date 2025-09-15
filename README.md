@@ -3,8 +3,8 @@
 ## 🚀 About Me
 - 🎓 CS major at Stanford University  
 - 💻 Passionate about software development, algorithms, and web development  
-- 🌟 Currently exploring React and modern JavaScript  
-- 🖼️ Blender enthusiast with experience in photorealistic rendering projects  
+- 🌟 Currently exploring Swift applicaitons with CoreML and ONNX
+- 🖼️ Blender enthusiast with experience in rendering projects and Computer Vision
 
 ## 🔧 Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
